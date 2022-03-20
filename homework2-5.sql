@@ -8,4 +8,4 @@ SELECT product_id, SUM（product_name）只能聚合聚合键
 SELECT product_id, product_type, count(*)
 FROM product
 WHERE regist_date > '2009-09-01'
-GROUP BY  product_type;
+GROUP BY product_type;
