@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/homework1-1.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework2-1.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework2-2.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework2-3.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework2-4.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework2-5.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework2-6.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework2-7.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework3-1.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework3-2.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework3-3.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework3-4.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework3-5.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework3-6.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/homework4-2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/homework1/homework1-1.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework2/homework2-1.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework2/homework2-2.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework2/homework2-3.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework2/homework2-4.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework2/homework2-5.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework2/homework2-6.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework2/homework2-7.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework3/homework3-1.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework3/homework3-2.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework3/homework3-3.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework3/homework3-4.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework3/homework3-5.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework3/homework3-6.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/homework4/homework4-2.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/shop.sql" dialect="GenericSQL" />
   </component>
 </project>
